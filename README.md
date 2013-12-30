@@ -1,0 +1,1 @@
+Hi this app is a node chat app! This is from Node.js in Action and is partly modified so it actually works!
